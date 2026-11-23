@@ -13,9 +13,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Crio sistemas web que resolvem problemas reais de operação: **gestão comercial e fiscal de distribuidoras de gás, controle de fretes, créditos e limites financeiros, e inteligência de mercado de combustíveis**. Meu foco é transformar planilhas e processos manuais em plataformas rápidas, claras e confiáveis.
+Crio sistemas que resolvem problemas reais de operação: **gestão comercial, gestão financeira e inteligência artificial aplicada à tomada de decisões estratégicas.**. Meu foco é transformar planilhas e processos manuais em plataformas rápidas, claras e confiáveis.
 
-- ⛽ Especialista em soluções para o **setor de energia e combustíveis**
+- ⛽ Especialista em soluções para a sua empresa.
 - 📊 Dashboards, CRMs e controle financeiro sob medida
 - 🚚 Sistemas de logística, fretes e estoque
 - 🤖 Uso de **IA** para acelerar o desenvolvimento e entregar mais rápido
@@ -32,10 +32,9 @@ Crio sistemas web que resolvem problemas reais de operação: **gestão comercia
 
 | Projeto | Descrição | Link |
 |---|---|---|
-| ⛽ **Radar do Mercado de Combustíveis** | Portal com informações atualizadas do mercado de combustíveis em um só lugar | [Acessar](https://radar-do-mercado-de-combustiveis.lovable.app) |
-| 🔥 **Gas Revolution** | Plataforma de gestão de operações, vendas e compliance fiscal para distribuidoras de gás | [Acessar](https://gas-spark-innovate.lovable.app) |
+| ⛽ **Radar do Mercado de Combustíveis** | Portal com informações atualizadas do mercado de combustíveis em um só lugar | [Acessar](https://radarsantiagoconsultoria.com.br/)) |
+| 🔥 **Gas Revolution** | Plataforma de gestão de operações, vendas e compliance fiscal para revendedoras de gás | [Acessar](https://gas-spark-innovate.lovable.app) |
 | 💰 **My Money Hub** | Gestão financeira de receitas, investimentos e despesas com saldo automático | [Acessar](https://moneyhubia.lovable.app) |
-| 🏭 **Limite Usina** | Controle de limite de crédito e pedidos junto à usina | [Acessar](https://limite-usina.lovable.app) |
 | 🚛 **Controle de Créditos Diários** | Acúmulo e organização de créditos diários para transportadoras e clientes | [Acessar](https://controlesantiago.lovable.app) |
 | 🛢️ **Ecopetro Controle** | Gestão de créditos, pedidos e clientes | [Acessar](https://ecopetrocontrole.lovable.app) |
 
