@@ -24,7 +24,7 @@ Crio sistemas que resolvem problemas reais de operação: **gestão comercial, g
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,nodejs,supabase,postgres,html,css,git,github,vscode&perline=13" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,nodejs,supabase,html,css,git,github,vscode&perline=13" />
 
 </div>
 
@@ -32,11 +32,10 @@ Crio sistemas que resolvem problemas reais de operação: **gestão comercial, g
 
 | Projeto | Descrição | Link |
 |---|---|---|
-| ⛽ **Radar do Mercado de Combustíveis** | Portal com informações atualizadas do mercado de combustíveis em um só lugar | [Acessar](https://radarsantiagoconsultoria.com.br/)) |
-| 🔥 **Gas Revolution** | Plataforma de gestão de operações, vendas e compliance fiscal para revendedoras de gás | [Acessar](https://gas-spark-innovate.lovable.app) |
+| ⛽ **Radar do Mercado de Combustíveis** | Portal com as principais informações atualizadas de forma automática do mercado de combustíveis | [Acessar](https://radarsantiagoconsultoria.com.br/)) |
+| 🔥 **Chama PRO** | Plataforma de gestão de operações, vendas e compliance fiscal para revendedoras de gás | [Acessar](https://gas-spark-innovate.lovable.app) |
 | 💰 **My Money Hub** | Gestão financeira de receitas, investimentos e despesas com saldo automático | [Acessar](https://moneyhubia.lovable.app) |
-| 🚛 **Controle de Créditos Diários** | Acúmulo e organização de créditos diários para transportadoras e clientes | [Acessar](https://controlesantiago.lovable.app) |
-| 🛢️ **Ecopetro Controle** | Gestão de créditos, pedidos e clientes | [Acessar](https://ecopetrocontrole.lovable.app) |
+| 🛢️ **Santiago Controle** | Gestão de créditos, pedidos e clientes | [Acessar](https://controlesantiago.lovable.app/auth)) |
 
 ## 📊 Estatísticas
 
