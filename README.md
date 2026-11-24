@@ -16,9 +16,9 @@
 Crio sistemas que resolvem problemas reais de operação: **gestão comercial, gestão financeira e inteligência artificial aplicada à tomada de decisões estratégicas.**. Meu foco é transformar ideias e processos manuais em plataformas rápidas, claras e confiáveis.
 
 - ⛽ Especialista em soluções para a sua empresa.
-- 📊 Dashboards, CRMs e controle financeiro sob medida
-- 🚚 Sistemas de logística, fretes e estoque
-- 🤖 Uso de **IA** para acelerar o desenvolvimento e entregar mais rápido
+- 📊 Dashboards, CRMs e controle financeiro sob medida.
+- 🚚 Sistemas de logística, fretes e estoque.
+- 🤖 Uso de **IA** para acelerar o desenvolvimento e entregar mais rápido.
 
 ## 🛠️ Stack
 
@@ -32,9 +32,9 @@ Crio sistemas que resolvem problemas reais de operação: **gestão comercial, g
 
 | Projeto | Descrição | Link |
 |---|---|---|
-| ⛽ **Radar do Mercado de Combustíveis** | Portal com as principais informações atualizadas de forma automática do mercado de combustíveis | [Acessar](https://radarsantiagoconsultoria.com.br/)) |
+| ⛽ **Radar do Mercado de Combustíveis** | Portal com as principais informações atualizadas de forma automática do mercado de combustíveis. | [Acessar](https://radarsantiagoconsultoria.com.br/)) |
 | 🔥 **Chama PRO** | Plataforma integrada de gestão operacional, comercial e compliance fiscal para revendedoras de gás, com um agente de inteligência artificial disponível 24/7 para otimizar processos, automatizar tarefas e auxiliar na tomada de decisões estratégicas.  | [Acessar](https://gas-spark-innovate.lovable.app) |
-| 💰 **My Money Hub** | Gestão financeira de receitas, investimentos e despesas com saldo automático tudo com auxílio da IA | [Acessar](https://moneyhubia.lovable.app) |
+| 💰 **My Money Hub** | Gestão financeira do seu dinheiro, investimentos e despesas com saldo automático tudo com auxílio da IA. | [Acessar](https://moneyhubia.lovable.app) |
 | 🛢️ **Santiago Controle** | Gestão de créditos, pedidos, clientes, follow UP automático e tudo o que sua equipe precisa. | [Acessar](https://controlesantiago.lovable.app/auth)) |
 
 ## 📊 Estatísticas
