@@ -33,9 +33,9 @@ Crio sistemas que resolvem problemas reais de operação: **gestão comercial, g
 | Projeto | Descrição | Link |
 |---|---|---|
 | ⛽ **Radar do Mercado de Combustíveis** | Portal com as principais informações atualizadas de forma automática do mercado de combustíveis | [Acessar](https://radarsantiagoconsultoria.com.br/)) |
-| 🔥 **Chama PRO** | Plataforma de gestão de operações, vendas e compliance fiscal para revendedoras de gás | [Acessar](https://gas-spark-innovate.lovable.app) |
-| 💰 **My Money Hub** | Gestão financeira de receitas, investimentos e despesas com saldo automático | [Acessar](https://moneyhubia.lovable.app) |
-| 🛢️ **Santiago Controle** | Gestão de créditos, pedidos e clientes | [Acessar](https://controlesantiago.lovable.app/auth)) |
+| 🔥 **Chama PRO** | Plataforma integrada de gestão operacional, comercial e compliance fiscal para revendedoras de gás, com um agente de inteligência artificial disponível 24/7 para otimizar processos, automatizar tarefas e auxiliar na tomada de decisões estratégicas.  | [Acessar](https://gas-spark-innovate.lovable.app) |
+| 💰 **My Money Hub** | Gestão financeira de receitas, investimentos e despesas com saldo automático tudo com auxílio da IA | [Acessar](https://moneyhubia.lovable.app) |
+| 🛢️ **Santiago Controle** | Gestão de créditos, pedidos, clientes, follow UP automático e tudo o que sua equipe precisa. | [Acessar](https://controlesantiago.lovable.app/auth)) |
 
 ## 📊 Estatísticas
 
