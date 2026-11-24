@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:f59e0b&height=180&section=header&text=Petronio%20Lucas&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Y=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:f59e0b&height=180&section=header&text=Petronio%20Lucas&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=&descSize=16" />
 
 <a href="https://github.com/PetronioLucass"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Dashboards%2C+CRMs+e+controle+financeiro;Transformando+processos+em+software" /></a>
 
